@@ -1,0 +1,259 @@
+{
+  "guide": {
+    "badge": "CURATED EXPERIENCES",
+    "title_1": "The Rhythm",
+    "title_2": "of Life.",
+    "description": "From the wind of the surf to the silence of history, a unique story is hidden in every corner of Alacati. Which path will you choose?",
+    "empty": "This story hasn't been written yet...",
+    "loading": "Preparing discovery details...",
+    "return_all": "BACK TO ALL DISCOVERIES",
+    "other_places": "OTHER STOPS",
+    "categories": {
+      "all": "ALL",
+      "historicalPlaces": "HISTORY",
+      "sports": "SURF & SPORT",
+      "beaches": "BEACHES",
+      "gourmet": "GOURMET",
+      "activities": "ACTIVITY"
+    },
+    "places": {
+      "historicalPlaces": [
+        {
+          "id": "windmills",
+          "title": "Historical Alacati Windmills",
+          "location": "Alacati Entrance",
+          "period": "1850s",
+          "description": "The signature silhouette of Alacati. For over 150 years, these structures have turned the wind into abundance and now offer a unique terrace for sunset.",
+          "details": "Exquisite examples of stone craftsmanship, these mills were once used to grind wheat. Today, they stand as the most iconic symbols of Alacati, welcoming guests to witness the town's history.",
+          "visitor_tip": "Entrance is free. The ideal time for photography is 30 minutes before sunset.",
+          "distance": "5 min (Walking)",
+          "best_time": "Sunset",
+          "features": ["Historic Texture", "Panoramic View", "Ancient Architecture"],
+          "mapUrl": "https://maps.google.com/?q=Alacati+Windmills"
+        },
+        {
+          "id": "pazaryeri",
+          "title": "Pazaryeri Mosque",
+          "location": "Alacati Old Town",
+          "period": "1874",
+          "description": "A former Greek church converted into a mosque, this structure is a symbol of tolerance and multiculturalism with its preserved iconography.",
+          "details": "Originally built as the Ayios Konstantinos Church, the building is a rare example of harmony, still carrying the traces of both Christian and Islamic cultures under the same roof.",
+          "visitor_tip": "Look closely at the 'podima' pebble mosaics in the courtyard.",
+          "distance": "2 min (Walking)",
+          "best_time": "Noon",
+          "features": ["Cultural Heritage", "Mosaic Art", "Symbol of Coexistence"],
+          "mapUrl": "https://maps.google.com/?q=Alacati+Pazaryeri+Mosque"
+        },
+        {
+          "id": "castle",
+          "title": "Cesme Castle",
+          "location": "Cesme Waterfront",
+          "period": "1508",
+          "description": "Built during the reign of Bayezid II, the castle stands as a witness to history with its museum and unparalleled harbor views.",
+          "details": "One of the most robust examples of Ottoman military architecture, Cesme Castle sheds light on thousands of years of regional history through its archaeology museum.",
+          "visitor_tip": "Museum Pass is valid. Don't forget to spot Chios Island from the highest bastions.",
+          "distance": "15 min (Drive)",
+          "best_time": "Morning",
+          "features": ["Archaeology Museum", "Sea View", "Ottoman Architecture"],
+          "mapUrl": "https://maps.google.com/?q=Cesme+Castle"
+        },
+        {
+          "id": "saat-kulesi",
+          "title": "Cesme Clock Tower",
+          "location": "Cesme Center",
+          "description": "A 19th-century Ottoman clock tower that keeps the pulse of history in the heart of Cesme.",
+          "details": "Built in 1901, this tower is not just a landmark but also the gateway to a vibrant bazaar area offering an authentic Cesme atmosphere.",
+          "visitor_tip": "Explore the side streets to find traditional jewelry and local Cesme pepper shops.",
+          "distance": "15 min (Drive)",
+          "best_time": "Morning",
+          "features": ["Ottoman Landmark", "Lively Bazaar", "Photo Spot"],
+          "mapUrl": "https://maps.google.com/?q=Cesme+Clock+Tower"
+        }
+      ],
+      "sports": [
+        {
+          "id": "windsurf",
+          "title": "Windsurfing",
+          "location": "Alacati Surf Bay",
+          "description": "One of the world's premier surf spots. A hub for adrenaline seekers with its shallow waters and consistent winds 300 days a year.",
+          "details": "The bay that introduced Alacati to the world is not just for pros; its shallow, wave-free structure makes it one of the safest training areas in the world for beginners.",
+          "distance": "10 min (Drive)",
+          "best_time": "Afternoon",
+          "features": ["World Standards", "Training Available", "Steady Wind"],
+          "mapUrl": "https://maps.google.com/?q=Alacati+Surf+Bay"
+        },
+        {
+          "id": "kitesurf",
+          "title": "Kitesurfing",
+          "location": "Alacati Bay",
+          "description": "A high-adrenaline Aegean experience where you feel the sky and sea at the same time.",
+          "details": "Alacati's winds create the perfect environment for kitesurfing. You can take your first flight under the guidance of experienced instructors.",
+          "distance": "10 min (Drive)",
+          "best_time": "Afternoon",
+          "features": ["Adrenaline", "Training Available", "Aegean View"],
+          "mapUrl": "https://maps.google.com/?q=Alacati+Kitesurfing"
+        }
+      ],
+      "beaches": [
+        {
+          "id": "ilica",
+          "title": "Ilica Beach",
+          "location": "Cesme / Ilica",
+          "description": "Famous for its warm, healing waters thanks to underwater thermal springs and turquoise shallows that rival the Maldives.",
+          "details": "What makes Ilica special are the hot springs bubbling from the seabed, turning the beach into a natural open-air SPA.",
+          "distance": "8 min (Drive)",
+          "best_time": "Weekdays",
+          "features": ["Thermal Springs", "Turquoise Water", "Fine Sand"],
+          "mapUrl": "https://maps.google.com/?q=Ilica+Beach"
+        },
+        {
+          "id": "altinkum",
+          "title": "Altinkum Beach",
+          "location": "Cesme / Altinkum",
+          "description": "Named after its golden sands, this beach is a refreshing stop in the summer heat with its cool waters and sheltered structure.",
+          "details": "Boasting some of the clearest waters in the Aegean, Altinkum offers such transparency that you can see every grain of sand on the seabed.",
+          "distance": "20 min (Drive)",
+          "best_time": "09:00 AM",
+          "features": ["Crystal Clear Sea", "Refreshing Water", "Golden Sands"],
+          "mapUrl": "https://maps.google.com/?q=Altinkum+Beach"
+        },
+        {
+          "id": "delikli",
+          "title": "Delikli Koy",
+          "location": "Alacati / Port",
+          "description": "A pristine natural wonder famous for its wave-eroded white rocks and a natural bridge, far from the crowds.",
+          "details": "Named after the natural opening in the rocks, this bay feels like another planet with its stark white limestone formations. It is a completely natural, undeveloped area.",
+          "distance": "15 min (Drive)",
+          "best_time": "Sunset",
+          "features": ["Natural Bridge", "Serene Ambiance", "Camping Friendly"],
+          "mapUrl": "https://maps.google.com/?q=Delikli+Koy"
+        },
+        {
+          "id": "akkum",
+          "title": "Akkum Beach",
+          "location": "Cesme / Akkum",
+          "description": "A favorite for families with its shallow turquoise waters, white sand, and calm bay structure.",
+          "details": "One of Cesme's most peaceful and natural beaches. Ideal for swimming with its fine sand and absence of stones.",
+          "distance": "12 min (Drive)",
+          "best_time": "Morning",
+          "features": ["Turquoise Water", "Fine Sand", "Family Friendly"],
+          "mapUrl": "https://maps.google.com/?q=Akkum+Beach"
+        },
+        {
+          "id": "boyalik",
+          "title": "Boyalik Beach",
+          "location": "Cesme / Boyalik",
+          "description": "Ideal for a daily beach getaway with its proximity to Cesme center and crystal-clear waters.",
+          "details": "Boyalik offers full beach infrastructure with sunbed rentals, cafes, and restaurants.",
+          "distance": "10 min (Drive)",
+          "best_time": "Noon",
+          "features": ["Full Facilities", "Clear Sea", "Near Center"],
+          "mapUrl": "https://maps.google.com/?q=Boyalik+Beach"
+        }
+      ],
+      "gourmet": [
+        {
+          "id": "haci-memis",
+          "title": "Haci Memis Kitchen",
+          "location": "Haci Memis District",
+          "description": "The true culinary heart of Alacati. Discover modern gourmet reinterpretations of local herbs and traditional Aegean recipes.",
+          "details": "Hidden among antique shops and art galleries, Haci Memis is the most intimate spot to escape the crowds and touch the authentic Aegean cuisine.",
+          "must_try": "Stuffed Zucchini Flowers, Blessed Thistle",
+          "distance": "3 min (Walking)",
+          "best_time": "Dinner",
+          "features": ["Local Herbs", "Traditional Cuisine", "Boutique Venue"],
+          "mapUrl": "https://maps.google.com/?q=Haci+Memis+Alacati"
+        },
+        {
+          "id": "agrilia",
+          "title": "Agrilia Restaurant",
+          "location": "Alacati Old Town",
+          "description": "The freshest Aegean seafood and an authentic Greek-Turkish culinary synthesis in an elegant atmosphere.",
+          "details": "Hidden inside a stone building, Agrilia is one of Alacati's most romantic restaurants with its blue-clothed tables and garden lighting.",
+          "distance": "3 min (Walking)",
+          "best_time": "Dinner",
+          "features": ["Seafood", "Romantic Ambiance", "Garden"],
+          "mapUrl": "https://maps.google.com/?q=Agrilia+Alacati"
+        },
+        {
+          "id": "asma-yapragi",
+          "title": "Asma Yaprağı",
+          "location": "Alacati Streets",
+          "description": "The warmth of a village table amidst ivy-covered stone walls; a place that brings the soul of the Aegean to your plate.",
+          "details": "Perfect for those seeking real Aegean flavors like artichoke in olive oil and homemade desserts.",
+          "distance": "4 min (Walking)",
+          "best_time": "Lunch & Dinner",
+          "features": ["Home Cooking", "Olive Oil Dishes", "Authentic"],
+          "mapUrl": "https://maps.google.com/?q=Asma+Yapragi+Alacati"
+        },
+        {
+          "id": "tike",
+          "title": "Tike Restaurant",
+          "location": "Alacati Center",
+          "description": "The destination for meat lovers. Alacati's highly acclaimed steakhouse known for its grilling mastery and quality ingredients.",
+          "details": "Serving fresh cuts directly from the butcher to the grill, Tike masters meatballs, lamb chops, and shish kebabs.",
+          "distance": "5 min (Walking)",
+          "best_time": "Dinner",
+          "features": ["Grill & BBQ", "Fresh Ingredients", "Wide Menu"],
+          "mapUrl": "https://maps.google.com/?q=Tike+Alacati"
+        },
+        {
+          "id": "biberiye",
+          "title": "Biberiye Restaurant",
+          "location": "Alacati Old Town",
+          "description": "One of Alacati's most refined restaurants with its flowery courtyard and menu inspired by Aegean herbs.",
+          "details": "With a philosophy of seasonal ingredients and creative presentation, Biberiye is the first stop for fine dining in Alacati.",
+          "distance": "5 min (Walking)",
+          "best_time": "Dinner",
+          "features": ["Fine Dining", "Seasonal Menu", "Courtyard Garden"],
+          "mapUrl": "https://maps.google.com/?q=Biberiye+Alacati"
+        },
+        {
+          "id": "dalyan",
+          "title": "Dalyan Marina Restaurants",
+          "location": "Cesme Marina",
+          "description": "Fresh fish and seafood with a view of the marina; Cesme's popular coastal restaurants line up here.",
+          "details": "The waterfront restaurants in Dalyan are perfect for unwinding, especially during the golden sunset hours.",
+          "distance": "15 min (Drive)",
+          "best_time": "Evening",
+          "features": ["Marina View", "Fish & Seafood", "Sunset"],
+          "mapUrl": "https://maps.google.com/?q=Dalyan+Marina+Cesme"
+        }
+      ],
+      "activities": [
+        {
+          "id": "marina",
+          "title": "Cesme Marina",
+          "location": "Cesme Harbor",
+          "description": "Among Turkey's most prestigious marinas, Cesme Marina offers everything from yacht tours to a vibrant bazaar.",
+          "details": "A walk along the marina, boutique shops, cafes, and sunset views make for the perfect evening.",
+          "distance": "15 min (Drive)",
+          "best_time": "Evening",
+          "features": ["Yacht Tours", "Shopping", "Lively Atmosphere"],
+          "mapUrl": "https://maps.google.com/?q=Cesme+Marina"
+        },
+        {
+          "id": "alacati-port",
+          "title": "Alacati Port",
+          "location": "Alacati Harbor",
+          "description": "The entertainment hub of Alacati with surf schools, beach bars, and music festivals — surf by day, party by night.",
+          "details": "Home to the Alacati Herb Festival and surf competitions. The ideal spot to feel Alacati's dynamic and youthful energy.",
+          "distance": "10 min (Drive)",
+          "best_time": "Afternoon & Night",
+          "features": ["Surf Schools", "Beach Bar", "Festival Ground"],
+          "mapUrl": "https://maps.google.com/?q=Alacati+Port"
+        }
+      ]
+    },
+    "detail": {
+      "back": "BACK TO EXPLORATION LIST",
+      "weather_tip": "It's a perfect day to visit today.",
+      "weather_title": "Weather in Alacati",
+      "weather_status": "Sunny and Clear",
+      "story_title": "The Story",
+      "info_title": "Visitor Information",
+      "get_directions": "Get Directions",
+      "hotel_recommendation": "As Cemal Alacati Hotel, we highly recommend this route."
+    }
+  }
+}

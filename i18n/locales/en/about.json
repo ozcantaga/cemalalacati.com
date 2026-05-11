@@ -1,0 +1,40 @@
+{
+  "about": {
+    "seo": {
+      "title": "Our Story | Cemal Alacati Boutique Hotel",
+      "description": "Where historical texture meets modern luxury in the heart of Alacati. Discover the story of Cemal Alacati and our dedicated team."
+    },
+    "hero": {
+      "badge": "CEMAL ALACATI",
+      "title_1": "Traditional Heritage",
+      "title_2": "Modern Comfort"
+    },
+    "story": {
+      "badge": "OUR STORY",
+      "title": "Quiet Luxury Behind Stone Walls",
+      "p1": "A sanctuary in the characteristic narrow streets of Alacati, where historical texture is reinterpreted with a modern vision.",
+      "p2": "A lifestyle philosophy woven with the Aegean breeze, the coolness of the stone, and the elegance of design."
+    },
+    "stats": {
+      "rooms": "Unique Rooms",
+      "experience": "Years of Experience",
+      "rating": "Guest Rating",
+      "coffee": "24/7 Treats"
+    },
+    "team": {
+      "title": "Our Team",
+      "roles": {
+        "manager": "Hotel Manager",
+        "chef": "Executive Chef",
+        "reception": "Front Desk",
+        "coordinator": "Housekeeping",
+        "relations": "Guest Relations"
+      }
+    },
+    "cta": {
+      "title_1": "Book",
+      "title_2": "Your Stay",
+      "button": "CONTACT US"
+    }
+  }
+}

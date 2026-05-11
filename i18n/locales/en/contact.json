@@ -1,0 +1,15 @@
+{
+  "contact": {
+    "badge": "CONTACT US",
+    "title_main": "Join Us For",
+    "title_sub": "A Coffee",
+    "phone_label": "PHONE",
+    "email_label": "E-MAIL",
+    "address_label": "ADDRESS",
+    "secret_tip": "A secret for you: By making your reservation via our social media channels, you can benefit from our most advantageous price options.",
+    "follow_us": "FOLLOW",
+    "location": "Location",
+    "view_map": "Show Map",
+    "whatsapp": "WhatsApp"
+  }
+}

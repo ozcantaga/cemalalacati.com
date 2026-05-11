@@ -1,0 +1,68 @@
+{
+  "rooms": {
+    "common": {
+      "badge": "HUZUR & KONFOR",
+      "story_title": "Odanın Hikayesi",
+      "equipment_title": "EKİPMAN & GÜVENLİK",
+      "book_now": "HEMEN REZERVASYON YAP",
+      "per_night": "GECELİK",
+      "no_label": "ODA NO",
+      "all": "Tümü"
+    },
+    "list": {
+      "france-oda": {
+        "title": "Taşın Serinliği",
+        "subtitle": "Gözlerinizin Önünde Saf Lüks",
+        "description": "Orijinal Alaçatı taşlarıyla örülmüş, yüksek tavanlı ve ferah bir yaşam alanı."
+      },
+      "deluxe-oda": {
+        "title": "Mavi Sığınak",
+        "subtitle": "Saniyeler İçinde Suyun Serinliği",
+        "description": "Odanızın terasından doğrudan ana havuza adım atın."
+      },
+      "standart-oda": {
+        "title": "Gökyüzü Terası",
+        "subtitle": "Alaçatı Çatıları Üzerinde Bir Rüya",
+        "description": "Alaçatı çatıları manzarasına hakim, iki katlı özel loft deneyimi."
+      },
+      "twin-oda": {
+        "title": "Lavanta Bahçesi",
+        "subtitle": "Rustik Zarafet ve Sakinlik",
+        "description": "Geniş banyosu ve el yapımı mobilyalarıyla rustik lüks."
+      },
+      "bahce-oda": {
+        "title": "Sakız Esintisi",
+        "subtitle": "Doğanın Kalbinde Bir Uyanış",
+        "description": "Bahçeye açılan kapısıyla sabahları sakız ağaçlarının kokusuyla uyanın."
+      },
+      "panorama-oda": {
+        "title": "Panorama Kule",
+        "subtitle": "Sonsuz Gökyüzü ve Ufuk Çizgisi",
+        "description": "Alaçatı'nın 360° manzarasına hâkim, geniş teraslı bu oda’da güneş batışını seyredin."
+      }
+    },
+    "features": {
+      "wifi": "Yüksek Hızlı Wi-Fi",
+      "tv": "Smart TV",
+      "ac": "Klima",
+      "coffee": "Nespresso Makinesi",
+      "kettle": "Su Isıtıcısı",
+      "hairdryer": "Saç Kurutma",
+      "shower": "Banyo Ürünleri",
+      "minibar": "Minibar",
+      "heating": "Isıtma",
+      "terrace": "Özel Teras",
+      "pool_access": "Havuz Erişimi",
+      "room_size_35": "35 m²",
+      "room_size_40": "40 m² Area",
+      "room_size_55": "55 m²",
+      "room_size_50": "50 m²",
+      "room_size_45": "45 m²",
+      "room_size_30": "30 m²",
+      "amenities_set": "Buklet Seti",
+      "filter_coffee": "Filtre Kahve",
+      "ac_unit": "Klima Ünitesi",
+      "smart_tv": "Android TV"
+    }
+  }
+}

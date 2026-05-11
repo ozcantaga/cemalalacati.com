@@ -1,0 +1,118 @@
+{
+  "seo": {
+    "index": {
+      "title": "Cemal Alacati",
+      "description": "Discover the historic texture of Hacı Memiş, where stone architecture meets Aegean hospitality. A peaceful and luxurious stay awaits you at Cemal Alaçatı.",
+      "ogTitle": "Cemal Alaçatı Boutique Hotel"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "A Boutique Story",
+      "subtitle": "Rediscover peace and luxury in the heart of Alaçatı.",
+      "cta": "Explore Our Rooms"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "gallery": "Gallery",
+    "about": "About Us",
+    "contact": "Contact",
+    "guide": "Guide"
+  },
+  "hero": {
+    "badge": "An Authentic Experience in the Heart of Alaçatı",
+    "title_1": "Cemal Alacati",
+    "title_2": "Hotel",
+    "subtitle": "Cobblestone streets, an outdoor pool, and the warmth of a boutique home — feel the spirit of the Aegean in every detail.",
+    "cta_rooms": "Explore Rooms"
+  },
+  "booking": {
+    "check_in": "Check-in",
+    "check_out": "Check-out",
+    "guests": "Guests",
+    "btn_search": "Check Availability",
+    "rezervation": "Reservation",
+    "person_singular": "PERSON",
+    "person_plural": "PEOPLE",
+    "adult": "Adult",
+    "young": "Teen",
+    "child": "Child",
+    "years": "Years",
+    "default_message": "Hello, could I get more information about a reservation for the '{room}' room at {hotel}?"
+  },
+  "gallery": {
+    "title": "Hotel Gallery",
+    "badge": "Memories and Details",
+    "seo_description": "Explore the stone architecture, elegant rooms, and peaceful atmosphere of Cemal Alaçatı. Moments from the Alaçatı boutique hotel experience.",
+    "schema_name": "Cemal Alaçatı Photo Gallery",
+    "schema_description": "Professional shots of our hotel's exterior, interior spaces, and restaurant areas.",
+    "subtitle": "A Visual Journey",
+    "title_1": "The World",
+    "title_2": "of Cemal",
+    "description": "Discover the perfect harmony of modern minimalism and sophisticated details in the heart of Alaçatı. Take a short journey through our living spaces, where every frame holds peace and aesthetics.",
+    "view_all": "Explore Gallery",
+    "story_label": "The Story",
+    "sections": {
+      "historicalPlaces": {
+        "title": "Historical Texture",
+        "story": "Our building, which has witnessed the history of Alaçatı, has been transformed into a boutique hotel while preserving its authentic stone architecture."
+      },
+      "exterior": {
+        "title": "Exterior Architecture",
+        "story": "Crafted with Alaçatı's signature stone texture, our building hosts a different play of light at every hour of the day."
+      },
+      "restaurant": {
+        "title": "Aegean Table",
+        "story": "A gastronomic feast prepared with hand-picked olives, fresh oven-baked bread, and the freshest products from local producers."
+      },
+      "events": {
+        "title": "Life and Activity",
+        "story": "From soul-soothing yoga sessions to bicycle tours exploring the narrow streets of Alaçatı, we make every moment valuable."
+      },
+      "interior": {
+        "title": "Interior Design",
+        "story": "In our interior spaces, where antique objects blend with modern comfort, you will feel as if you are in an art gallery."
+      }
+    },
+    "empty": "No images found in this category yet.",
+    "common": {
+      "book_now": "Book Now"
+    },
+    "categories": {
+      "all": "ALL",
+      "exterior": "EXTERIOR",
+      "interior": "INTERIOR",
+      "restaurant": "RESTAURANT",
+      "events": "Activities"
+    }
+   
+  },
+  "rooms_section": {
+    "badge": "Our Other Rooms",
+    "title": "A Unique Stay Experience",
+    "subtitle": "PEACE & COMFORT",
+    "title_1": "Rooms &",
+    "title_2": "Suites",
+    "all_categories": "ALL ROOMS",
+    "no_rooms_found": "No rooms found in the selected category.",
+    "description": "We combined the ancient stone texture of the Aegean with the simplicity of modern minimalism. Discover perfect comfort and serenity in our living spaces, each telling its own story.",
+    "explore": "Explore Room"
+  },
+  "footer": {
+    "motto": "In the most beautiful corner of Alaçatı; the warmth of the stone, the breeze, and the Aegean.",
+    "address_title": "ADDRESS",
+    "get_directions": "GET DIRECTIONS"
+  },
+  "testimonials": {
+    "badge": "GUEST EXPERIENCES",
+    "experience_title": "The Cemal",
+    "experience_subtitle": "Experience",
+    "score_label": "Excellence Score",
+    "source_label": "TripAdvisor Score",
+    "tripadvisor_global": "TripAdvisor Global",
+    "read_more": "Read More",
+    "date_format": "Stayed on {date}"
+  }
+}

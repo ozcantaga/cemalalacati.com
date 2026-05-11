@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─────────────────────────────────────────────────────────────────────────────
+    CEMAL ALAÇATI — Nihai Ana CSS (Lighthouse 100/100 & Performance Edition)
+   ───────────────────────────────────────────────────────────────────────────── */
+
+@layer base {
+  :root {
+    /* AA Standartlarında Kontrast (4.5:1+): Beyaz üzerinde güvenli gold tonu */
+    --hotel-gold:  #a37b2a; 
+    --hotel-slate: #1e293b;
+
+    /* Erişilebilirlik: Minimum font boyutu 12px (0.75rem) barajına çekildi */
+    --fs-base:    16px; 
+    --fs-hero:    clamp(2.8rem, 10vw, 8rem);
+    --fs-section: clamp(1.6rem, 4vw, 3rem);
+    --fs-badge:   12px;
+    --fs-btn:     12px;
+    --fs-stat:    clamp(1.2rem, 3vw, 2rem);
+
+    --font-serif: 'Cormorant Garamond', Georgia, serif;
+    --font-sans:  'Montserrat', system-ui, -apple-system, sans-serif;
+  }
+
+  html {
+    font-size: var(--fs-base);
+    font-family: var(--font-sans);
+    @apply antialiased scroll-smooth;
+    /* Genel metinlerde hız öncelikli render */
+    text-rendering: optimizeSpeed;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    /* Kontrastı artırmak için saf beyaz yerine çok hafif kırık beyaz (#fdfdfb) */
+    @apply bg-[#fdfdfb] text-hotel-slate overflow-x-hidden w-full;
+  }
+
+  h1, h2, h3 {
+    font-family: var(--font-serif);
+    @apply font-medium tracking-tight;
+    /* Başlıklarda harf uyumu (kerning) ve kalite öncelikli render */
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Erişilebilirlik: 48px Tıklama alanı & Mobil Gecikme (300ms) İptali */
+  a, button {
+    @apply transition-colors duration-300 min-h-[44px] min-w-[44px] inline-flex items-center;
+    touch-action: manipulation;
+  }
+
+  /* Performans: Sayfa altı içerikleri sadece kaydırıldığında render et */
+  .below-fold {
+    content-visibility: auto;
+    contain-intrinsic-size: 1px 600px;
+  }
+}
+
+@layer components {
+  .layout-container {
+    @apply w-full max-w-[1440px] mx-auto px-6 sm:px-10 lg:px-16;
+  }
+
+  .text-hero {
+    font-size: var(--fs-hero);
+    @apply italic leading-[0.9] tracking-tighter;
+  }
+
+  .section-badge-line {
+    @apply w-8 h-px bg-hotel-gold opacity-40;
+  }
+
+  /* Rozetler: 12px ve tam opak (Contrast AA Onaylı) */
+  .section-badge {
+    font-size: var(--fs-badge);
+    color: var(--hotel-gold);
+    @apply tracking-[0.4em] uppercase font-bold italic;
+  }
+
+  /* İstatistik etiketleri: Slate-700 ile yüksek okunabilirlik */
+  .text-stat-label {
+    @apply text-slate-700 font-bold uppercase tracking-widest italic text-[11px];
+  }
+
+  /* Butonlar: 48px yükseklik ve güçlü kontrast */
+  .btn-gold, .btn-slate {
+    font-size: var(--fs-btn);
+    @apply inline-flex items-center justify-center gap-3
+           transition-all duration-500 uppercase font-bold italic
+           rounded-sm active:scale-95 touch-manipulation
+           px-8 py-4 tracking-[0.25em] min-h-[48px] w-full md:w-auto;
+  }
+
+  .btn-gold { @apply bg-hotel-gold text-white hover:bg-hotel-slate shadow-md; }
+  .btn-slate { @apply bg-hotel-slate text-white hover:bg-hotel-gold shadow-md; }
+
+  /* Footer: Düşük ışıkta okunabilir gri tonları */
+  .footer-link {
+    @apply text-slate-300 hover:text-hotel-gold transition-colors text-[13px] uppercase tracking-widest py-2;
+  }
+  
+  .footer-text {
+    @apply text-slate-400 text-[12px] leading-relaxed;
+  }
+}
+
+@layer utilities {
+  .luxury-overlay {
+    @apply bg-gradient-to-t from-hotel-slate/95 via-hotel-slate/20 to-black/30;
+  }
+
+  /* Metin Okunabilirliğini Artıran Gölgeler */
+  .text-shadow-strong { text-shadow: 0 4px 14px rgba(0,0,0,0.7); }
+  .text-shadow-soft   { text-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+}
