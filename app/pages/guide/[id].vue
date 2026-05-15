@@ -72,7 +72,7 @@ const openAlbum = (index: number) => {
 
 // 5. HAVA DURUMU & SEO (Aynı kalıyor...)
 const placeIdRef = computed(() => String(route.params.id || ''))
-const { finalWeather, coordinates } = await useLiveWeather(placeIdRef)
+const { finalWeather, coordinates } = useLiveWeather(placeIdRef)
 
 watchEffect(() => {
   if (place.value) {
@@ -95,7 +95,7 @@ watchEffect(() => {
     <div v-if="place">
       <section class="relative h-[80vh] flex items-center justify-center overflow-hidden">
         <div class="absolute inset-0 z-0">
-          <NuxtImg :src="place.image" :alt="place.title" width="1600" height="900" format="webp" class="w-full h-full object-cover animate-slow-zoom opacity-80" loading="eager" />
+          <NuxtImg :src="place.image" :alt="place.title" sizes="sm:100vw md:100vw lg:100vw" fetchpriority="high" format="webp" quality="80" class="w-full h-full object-cover animate-slow-zoom opacity-80" loading="eager" />
           <div class="absolute inset-0 bg-gradient-to-b from-black/20 via-transparent to-[#fcfbf7]"></div>
         </div>
         <div class="relative z-10 text-center px-6">

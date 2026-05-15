@@ -9,7 +9,7 @@ const DEFAULT_WEATHER = {
   icon: 'ph:sun-light'
 }
 
-export const useLiveWeather = async (placeIdRef: Ref<string>) => {
+export const useLiveWeather = (placeIdRef: Ref<string>) => {
   const { locale } = useI18n()
 
   const getWeatherStatus = (code: number, isDay: number) => {
@@ -35,8 +35,9 @@ export const useLiveWeather = async (placeIdRef: Ref<string>) => {
   // import.meta.prerender: prerender sırasında API çağrısını atla
   const { data: cw } = import.meta.prerender
     ? { data: ref(null) }
-    : await useFetch(weatherUrl, {
-        server: true,
+    : useFetch(weatherUrl, {
+        server: false,
+        lazy: true,
         timeout: 5000,  // 5 saniye timeout
         onRequestError: () => {},
         onResponseError: () => {},
@@ -49,7 +50,7 @@ export const useLiveWeather = async (placeIdRef: Ref<string>) => {
             ...getWeatherStatus(w.weathercode, w.is_day)
           }
         }
-      }).catch(() => ({ data: ref(null) }))
+      })
 
   const finalWeather = computed(() => {
     if (cw?.value) return cw.value
