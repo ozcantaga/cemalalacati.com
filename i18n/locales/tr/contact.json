@@ -1,0 +1,24 @@
+{
+  "contact": {
+    "badge": "BİZE ULAŞIN",
+    "title_main": "Bir Kahveye",
+    "title_sub": "Bekleriz",
+    "phone_label": "TELEFON",
+    "email_label": "E-POSTA",
+    "address_label": "ADRES",
+    "secret_tip": "Size özel bir sır: Rezervasyonunuzu sosyal medya kanallarımız üzerinden ileterek en avantajlı fiyatlardan yararlanabilirsiniz.",
+    "follow_us": "TAKİP ET",
+    "location": "Konum",
+    "view_map": "Haritayı Göster",
+    "whatsapp": "WhatsApp ",
+    
+   
+    "seo_description": "Cemal Alaçatı ile iletişime geçin. Adres, telefon ve yol tarifi bilgilerine buradan ulaşabilirsiniz. Hacı Memiş’in kalbinde sizi bekliyoruz.",
+    "info_title": "Bize Ulaşın",
+    "info_text": "Rezervasyon talepleriniz veya Alaçatı tatilinizle ilgili her türlü sorunuz için buradayız.",
+    "form_name": "Adınız",
+    "form_email": "E-posta Adresiniz",
+    "form_message": "Mesajınız",
+    "form_submit": "Gönder"
+  }
+}

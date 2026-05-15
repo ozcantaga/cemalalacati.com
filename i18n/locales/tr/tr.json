@@ -1,0 +1,126 @@
+{
+ "seo": {
+    "index": {
+      "title": "Cemal Alaçati",
+      "description": "Hacı Memiş’in tarihi dokusunda, taş mimari ve Ege misafirperverliğiyle tanışın. Cemal Alaçatı’da huzurlu ve lüks bir konaklama sizi bekliyor.",
+      "ogTitle": "Cemal Alaçatı Butik Otel"
+    }
+  },
+
+
+
+
+
+
+
+  "home": {
+    "hero": {
+      "title": "Butik Bir Hikaye",
+      "subtitle": "Alaçatı'nın kalbinde huzuru ve lüksü yeniden keşfedin.",
+      "cta": "Odalarımızı İnceleyin"
+    }
+  },
+  "nav": {
+    "home": "Anasayfa",
+    "rooms": "Odalar",
+    "gallery": "Galeri",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "guide": "Rehber"
+  },
+  "hero": {
+    "badge": "Alaçatı'nın Kalbinde Otantik Bir Deneyim",
+    "title_1": "Cemal Alaçatı",
+    "title_2": "Hotel",
+    "subtitle": "Taş sokaklar, açık havuz ve ev sıcaklığında butik konaklama — Ege'nin ruhunu her ayrıntıda hissedeceksiniz.",
+    "cta_rooms": "Odaları İnceleyin"
+  },
+  "booking": {
+    "check_in": "Giriş Tarihi",
+    "check_out": "Çıkış Tarihi",
+    "guests": "Misafir",
+    "btn_search": "Hemen Sorgula",
+    "rezervation": "Rezervasyon",
+    "person_singular": "KİŞİ",
+    "person_plural": "KİŞİ",
+    "adult": "Yetişkin",
+    "young": "Genç",
+    "child": "Çocuk",
+    "years": "Yaş",
+    "default_message": "Merhaba, {hotel} bünyesindeki '{room}' odası için rezervasyon hakkında bilgi alabilir miyim?"
+  },
+  "gallery": {
+    "title": "Otel Galerisi",
+    "sections": {
+      "historicalPlaces": {
+        "title": "Tarihi Doku",
+        "story": "Alaçatı'nın tarihine tanıklık eden binamız, özgün taş mimarisini koruyarak butik otele dönüştürüldü."
+      },
+      "exterior": {
+        "title": "Dış Mimari",
+        "story": "Alaçatı'nın imza taş dokusuyla örülen binamız, günün her saatinde farklı bir ışık oyununa ev sahipliği yapıyor."
+      },
+      "restaurant": {
+        "title": "Ege Sofrası",
+        "story": "Dalından koparılan zeytinler, fırından yeni çıkmış sıcak ekmekler ve yerel üreticilerin en taze ürünleriyle hazırlanan bir gastronomi şöleni."
+      },
+      "events": {
+        "title": "Yaşam ve Aktivite",
+        "story": "Ruhunuzu dinlendiren yoga seanslarından, Alaçatı'nın dar sokaklarını keşfedeceğiniz bisiklet turlarına kadar her anı değerli kılıyoruz."
+      },
+      "interior": {
+        "title": "İç Tasarım",
+        "story": "Antika objelerin modern konforla harmanlandığı iç mekanlarımızda, kendinizi bir sanat galerisinde hissedeceksiniz."
+      }
+    },
+    "badge": "Anılar ve Detaylar",
+    "seo_description": "Cemal Alaçatı’nın taş mimarisini, şık odalarını ve huzurlu atmosferini keşfedin. Alaçatı butik otel deneyiminden kareler.",
+    "schema_name": "Cemal Alaçatı Fotoğraf Galerisi",
+    "schema_description": "Otelimizin dış cephe, iç mekan ve restoran alanlarından profesyonel kareler.",
+    "subtitle": "Görsel Bir Yolculuk",
+    "title_1": "Cemal'in",
+    "title_2": "Dünyası",
+    "description": "Alaçatı'nın kalbinde, modern minimalizm ile sofistike detayların kusursuz uyumunu keşfedin. Her karesinde huzur ve estetiği barındıran yaşam alanlarımıza kısa bir yolculuğa çıkın.",
+    "view_all": "Galeriyi Keşfet",
+    "story_label": "Hikayesi",
+    "empty": "Bu kategoride henüz görsel bulunmuyor.",
+    "common": {
+    "book_now": "Hemen Rezervasyon Yapın"
+  },
+    "categories": {
+      "all": "HEPSİ",
+      "exterior": "DIŞ MEKAN",
+      "interior": "İÇ MEKAN",
+      "restaurant": "RESTORAN",
+      "events": "Aktifiteler"
+    }
+   
+  },
+  "rooms_section": {
+    "badge": "Diğer Odalarımız",
+    "title": "Eşsiz Konaklama Deneyimi",
+    "subtitle": "HUZUR & KONFOR",
+    "title_1": "Odalar &",
+    "title_2": "Suitler",
+    "all_categories": "TÜM ODALAR",
+    "no_rooms_found": "Seçilen kategoride oda bulunamadı.",
+    "description": "Ege'nin kadim taş dokusunu, modern minimalizmin yalınlığıyla birleştirdik. Her biri ayrı bir hikaye anlatan yaşam alanlarımızda, kusursuz konforu ve dinginliği keşfedin.",
+    "explore": "Odayı Keşfet"
+  },
+  "footer": {
+    "motto": "Alaçatı'nın en güzel köşesinde, taşın, havanın ve Ege'nin sıcaklığı.",
+    "address_title": "ADRES",
+    "get_directions": "YOL TARİFİ AL"
+  },
+ 
+  "testimonials": {
+    "badge": "MİSAFİR DENEYİMLERİ",
+    "experience_title": "Cemal",
+    "experience_subtitle": "Deneyimi",
+    "score_label": "Mükemmeliyet Puanı",
+    "source_label": "TripAdvisor Skoru",
+    "tripadvisor_global": "TripAdvisor Global",
+    "read_more": "Devamını Oku",
+    "date_format": "{date} tarihinde konakladı"
+  }
+}

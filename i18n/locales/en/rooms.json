@@ -1,0 +1,63 @@
+{
+  "rooms": {
+    "common": {
+      "badge": "ACCOMMODATION",
+      "story_title": "Room Story",
+      "equipment_title": "EQUIPMENT & SAFETY",
+      "book_now": "BOOK NOW",
+      "per_night": "PER NIGHT",
+      "no_label": "ROOM NO",
+      "all": "All"
+    },
+    "list": {
+      "france-oda": {
+        "title": "Coolness of Stone",
+        "subtitle": "Pure Luxury Before Your Eyes",
+        "description": "A spacious living area with high ceilings, built with original Alaçatı stones. A unique blend of historical texture and modern comfort."
+      },
+      "deluxe-oda": {
+        "title": "Blue Sanctuary",
+        "subtitle": "Cool Waters in Seconds",
+        "description": "Step directly into the main pool from your private room terrace. A unique harmony of wet floor comfort and modern design."
+      },
+      "standart-oda": {
+        "title": "Sky Terrace",
+        "subtitle": "A Dream Above Alaçatı Rooftops",
+        "description": "A private two-story loft experience overlooking the scenic rooftops of Alaçatı. Enjoy the stars on your private terrace."
+      },
+      "twin-oda": {
+        "title": "Lavender Garden",
+        "subtitle": "Rustic Elegance and Serenity",
+        "description": "A peaceful stay experience with its large bathroom, handmade furniture, and rustic luxury details."
+      },
+      "cumbalı-oda": {
+        "title": "Mastic Breeze",
+        "subtitle": "An Awakening in the Heart of Nature",
+        "description": "Wake up to the scent of mastic trees in the morning with its traditional bay window architecture and door opening to the garden."
+      }
+    },
+    "features": {
+      "wifi": "High-Speed Wi-Fi",
+      "tv": "Smart TV (4K)",
+      "ac": "Air Conditioning",
+      "coffee": "Nespresso Machine",
+      "kettle": "Delonghi Kettle",
+      "hairdryer": "Hair Dryer",
+      "shower": "Luxury Toiletries",
+      "minibar": "Gourmet Minibar",
+      "heating": "Underfloor Heating",
+      "terrace": "Private Terrace",
+      "pool_access": "Direct Pool Access",
+      "room_size_35": "35 m²",
+      "room_size_40": "40 m² Area",
+      "room_size_55": "55 m² Area",
+      "room_size_50": "50 m² Area",
+      "room_size_45": "45 m² Area",
+      "room_size_30": "30 m² Area",
+      "amenities_set": "Amenities Set",
+      "filter_coffee": "Filter Coffee",
+      "ac_unit": "A/C Unit",
+      "smart_tv": "Android TV"
+    }
+  }
+}

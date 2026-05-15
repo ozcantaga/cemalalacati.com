@@ -1,0 +1,39 @@
+{
+ "about":{
+  "seo": {
+    "title": "Hikayemiz | Cemal Alaçatı Butik Otel",
+    "description": "Alaçatı'nın kalbinde tarihi doku ve modern lüksün buluşma noktası. Cemal Alaçatı hikayesini ve ekibimizi keşfedin."
+  },
+  "hero": {
+    "badge": "CEMAL ALAÇATI",
+    "title_1": "Geleneksel Miras",
+    "title_2": "Modern Konfor"
+  },
+  "story": {
+    "badge": "HİKAYEMİZ",
+    "title": "Taş Duvarların Ardındaki Sessiz Lüks",
+    "p1": "Alaçatı’nın karakteristik dar sokaklarında, tarihi dokunun modern bir vizyonla yeniden yorumlandığı bir kaçış noktası.",
+    "p2": "Ege'nin meltemi, taşın serinliği ve tasarımın zarafetiyle örülmüş bir yaşam felsefesi."
+  },
+  "stats": {
+    "rooms": "Özel Oda",
+    "experience": "Yıl Deneyim",
+    "rating": "Misafir Puanı",
+    "coffee": "7/24 İkram"
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "roles": {
+      "manager": "Otel Müdürü",
+      "chef": "Mutfak Şefi",
+      "reception": "Resepsiyon",
+      "coordinator": "Kat Hizmetleri",
+     "relations": "Misafir İlişkileri"
+    }
+  },
+  "cta": {
+    "title_1": "Şimdi",
+    "title_2": "Yerini Ayırt",
+    "button": "BİZE ULAŞIN"
+  }
+}}
