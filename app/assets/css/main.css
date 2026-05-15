@@ -51,12 +51,6 @@
     touch-action: manipulation;
   }
 
-  /* Performans: Sayfa altı içerikleri sadece kaydırıldığında render et */
-  .below-fold {
-    content-visibility: auto;
-    /* auto: tarayıcı gerçek boyutu öğrendikten sonra günceller (CLS azaltır) */
-    contain-intrinsic-size: auto 1px 600px;
-  }
 }
 
 @layer components {
